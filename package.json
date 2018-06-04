@@ -4,6 +4,7 @@
   "description": "Version 1 of the final project for Colt Steele's \"Web Dev Bootcamp\" Udemy course.",
   "main": "app.js",
   "scripts": {
+    "start": "node app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Andrew",
